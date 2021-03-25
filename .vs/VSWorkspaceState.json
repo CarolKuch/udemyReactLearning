@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Cockpit",
+    "\\src\\components\\Persons",
+    "\\src\\components\\Persons\\Person",
+    "\\src\\containers",
+    "\\src\\ErrorBoundary"
+  ],
+  "SelectedNode": "\\src\\components\\Cockpit\\Cockpit.js",
+  "PreviewInSolutionExplorer": false
+}
